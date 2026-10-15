@@ -46,12 +46,3 @@
    We built an interactive **Streamlit** UI where users can:
    - Input patient data through a simple form
    - Get real-time predictions on heart disease risk
-
-   ![Accuracy](results/accuracy.png)
-   ![f1](results/f1.png)
-   ![precision](results/precision.png)
-   ![recall](results/recall.png)
-   ![specificity](results/specificity.png)
-   ![underfitting/overfitting](results/under.png)
-
-
